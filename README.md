@@ -13,7 +13,7 @@ In this application, you will be able to:
 - Upload photo
 <hr>
 RUNNING THE APPLICATION
-
+<br/>
 In the root folder containing both frontend and backend folders:<br/>
 *ENSURE YOU HAVE PYTHON INSTALLED*
 - create a python environment:

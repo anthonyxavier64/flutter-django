@@ -15,7 +15,8 @@ In this application, you will be able to:
 RUNNING THE APPLICATION
 <br/><br/>
 In the root folder containing both frontend and backend folders:<br/>
-*ENSURE YOU HAVE PYTHON INSTALLED*<br/>
+*ENSURE YOU HAVE PYTHON INSTALLED*
+
 - create a python environment:
   - Windows: python -m venv py_env
   - MacOS: python3 -m venv py_env

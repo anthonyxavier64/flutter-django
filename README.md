@@ -7,6 +7,11 @@ Application to experiment with the following technologies:
 - Django Rest Framework
 - Flutter
 
+In this application, you will be able to:
+- Register
+- Login
+- Upload photo
+
 In the root folder containing both frontend and backend folders:<br/>
 *ENSURE YOU HAVE PYTHON INSTALLED*
 - create a python environment:

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055923269409",
+    "project_id": "flutter-django-twilio",
+    "storage_bucket": "flutter-django-twilio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055923269409:android:5bd2762e59e36399a39860",
+        "android_client_info": {
+          "package_name": "com.company.flutterdjangotwilio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055923269409-98d3dlrhctjsp7r3777dp05idga0slbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0cmmbbWsZjhPXOmz0s92Ec_ng1QQboU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055923269409-98d3dlrhctjsp7r3777dp05idga0slbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

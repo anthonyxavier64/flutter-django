@@ -15,7 +15,7 @@ In the root folder containing both frontend and backend folders:
 
 - Activate python environment:
   - Windows: py_env\scripts\activate
-  - MacOS: py_env/bin/activate
+  - MacOS: source py_env/bin/activate
 
 - Install dependencies:
   *ENSURE THAT YOU ARE IN BACKEND_ROOT FOLDER*

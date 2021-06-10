@@ -7,7 +7,7 @@ Application to experiment with the following technologies:
 - Django Rest Framework
 - Flutter
 
-In the root folder containing both frontend and backend folders:
+In the root folder containing both frontend and backend folders:<br/>
 *ENSURE YOU HAVE PYTHON INSTALLED*
 - create a python environment:
   - Windows: python -m venv py_env
@@ -17,10 +17,24 @@ In the root folder containing both frontend and backend folders:
   - Windows: py_env\scripts\activate
   - MacOS: source py_env/bin/activate
 
-- Install dependencies:
+- Install dependencies:<br/>
   *ENSURE THAT YOU ARE IN BACKEND_ROOT FOLDER*
   - pip install -r requirements.txt
 
 In the frontend folder:
 - Install Flutter dependencies:
   - flutter pub get
+
+Run backend server:<br/>
+*ENSURE YOU ARE IN BACKEND_ROOT FOLDER*<br/>
+*ENSURE PYTHON ENVIRONMENT IS ACTIVATED*
+- python manage.py runserver
+
+How to install Android emulator:
+*ENSURE YOU HAVE ANDROID STUDIO INSTALLED*
+- https://docs.expo.io/workflow/android-studio-emulator/ (Documentation)
+- https://www.youtube.com/watch?v=LgRRmgfrFQM (Video)
+
+Run frontend flutter client:
+*ENSURE THE DEVICE THAT VISUAL STUDIO CODE IS CONNECTED TO IS AN ANDROID EMULATOR*
+- flutter run

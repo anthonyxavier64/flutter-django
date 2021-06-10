@@ -11,6 +11,8 @@ In this application, you will be able to:
 - Register
 - Login
 - Upload photo
+<hr>
+RUNNING THE APPLICATION
 
 In the root folder containing both frontend and backend folders:<br/>
 *ENSURE YOU HAVE PYTHON INSTALLED*

@@ -30,11 +30,11 @@ Run backend server:<br/>
 *ENSURE PYTHON ENVIRONMENT IS ACTIVATED*
 - python manage.py runserver
 
-How to install Android emulator:
+How to install Android emulator:<br/>
 *ENSURE YOU HAVE ANDROID STUDIO INSTALLED*
 - https://docs.expo.io/workflow/android-studio-emulator/ (Documentation)
 - https://www.youtube.com/watch?v=LgRRmgfrFQM (Video)
 
-Run frontend flutter client:
+Run frontend flutter client:<br/>
 *ENSURE THE DEVICE THAT VISUAL STUDIO CODE IS CONNECTED TO IS AN ANDROID EMULATOR*
 - flutter run

@@ -10,6 +10,7 @@ Application to experiment with the following technologies:
 In this application, you will be able to:
 - Register
 - Login
+- Logout
 - Upload photo
 <hr>
 RUNNING THE APPLICATION
